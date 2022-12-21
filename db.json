@@ -1,0 +1,11 @@
+{
+  "astronauts": [
+    {
+      "id": "autovalue-1651396827423",
+      "name": "Radim",
+      "surname": "Glaser",
+      "birthday": "2005-05-10T19:05",
+      "superpowers": "Závislost"
+    }
+  ]
+}
